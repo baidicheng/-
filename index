@@ -1,0 +1,24 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head>
+	<meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
+	<link rel="stylesheet" type="text/css" href="../css/index.css">
+	<title>主页</title>
+</head>
+<body >
+	<!-- <img src="C:/Users/Asus/Desktop/myproject/image/background.jpg" width="400px" height="300px"> -->
+	<div class="index">
+		<div class="div1"><a href="#"><span>我的相册</span></a></div>
+		<div class="div2"><a href="../html/index.html" target="_self">个人主页</a></div>
+		<div class="div3"><a href="../html/register.html" target="_blank">登录注册</a></div>
+		<div class="div4"><a href="#">发送邮件</a></div>
+		<div class="div5"></div>
+		<div class="div6"><a href="http://www.gdut.edu.cn/">我的大学</a></div> 
+		<div class="div7"><a href="../html/tortoise_game.html" target="_blank">乌龟抓鸡</a></div>
+		<div class="div8"><a href="../html/snake_game.html" target="_blank">贪吃蛇</a></div>
+		<div class="div9"><a href="#">给我留言</a></div>
+		
+
+	</div>
+</body>
+</html>
